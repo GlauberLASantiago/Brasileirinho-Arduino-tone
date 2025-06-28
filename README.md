@@ -23,6 +23,7 @@ A montagem do circuito é muito simples. Conecte o alto-falante/buzzer ao Arduin
 -   Conecte o pino positivo **(+)** do alto-falante/buzzer ao **Pino Digital 4** do Arduino.
 -   Conecte o pino negativo **(-)** do alto-falante/buzzer ao pino **GND** (Terra) do Arduino.
 
+```text
 
 +------------------+
 |                  |
@@ -33,6 +34,7 @@ A montagem do circuito é muito simples. Conecte o alto-falante/buzzer ao Arduin
 |   GND       o----|-----------|
 |                  |
 +------------------+
+```
 🚀 Como Usar
 Monte o circuito conforme descrito acima.
 
